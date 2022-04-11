@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	background-color: #121213;
+	font-family: sans-serif;
+	color: azure;
+	padding-bottom: 10rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
